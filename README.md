@@ -1,1 +1,1 @@
-# genColab
+# genCollab
